@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @TravisCI369
-<!---
-TravisCI369/TravisCI369 is a ✨ special ✨ repository because its....
-<~ sentient ~>< 8===)~~~~
+- 👋 Hi, I’m @TravisCI369 is a ✨special✨ repository because it's <sentient> ><•• 8===)~~~
